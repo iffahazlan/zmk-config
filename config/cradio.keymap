@@ -60,7 +60,7 @@
 
         escape {
             bindings = <&kp ESC>;
-            key-positions = <0 1>;
+            key-positions = <1 2>;
         };
     };
 
